@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/2/2016 3:54:41 PM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_SLIVER_OF_INFINITY</Type>
+			<Description>TXT_KEY_SLIVER_OF_INFINITY</Description>
+			<ShortDescription>TXT_KEY_TRAIT_SLIVER_OF_INFINITY</ShortDescription>
+			<ImprovementMaintenanceModifier>-50</ImprovementMaintenanceModifier>
+			<NoHillsImprovementMaintenance>true</NoHillsImprovementMaintenance>
+		</Row>
+	</Traits>
+  
+</GameData>

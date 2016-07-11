@@ -1,0 +1,62 @@
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITY_NAME_LUTHADEL">
+			<Text>Luthadel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FADREX">
+			<Text>Fadrex City</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_URTEAU">
+			<Text>Urteau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FELLISE">
+			<Text>Fellise</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SERAN">
+			<Text>Seran</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TREMREDARE">
+			<Text>Tremredare</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TATHINGDWEN">
+			<Text>Tathingdwen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DERYTATITH">
+			<Text>Derytatith</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_FE_ADJECTIVE">
+			<Text>Final Imperial</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_FE_DESC">
+			<Text>Final Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_FE_SHORT_DESC">
+			<Text>Final Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FE_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_FE_TEXT_1">
+			<Text>The Final Empire was a civilization on Roshar that lasted over 1000 years under the leadership of The Lord Ruler. The Final empire was created by the Lord Ruler in the year 0 FE, and lasted until his death in 1024 FE.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RASHEK_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RASHEK_TEXT_1">
+			<Text>Rashek, known as The Lord Ruler, was an extremely powerful Allomancer and Feruchemist who was able to become immortal and rule The Final Empire for over 1000 years.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RASHEK_LIVED">
+			<Text>? - 1024 FE</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RASHEK_NAME">
+			<Text>Rashek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RASHEK_SUBTITLE">
+			<Text>The Lord Ruler</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RASHEK">
+			<Text>Rashek</Text>
+		</Row>
+	</Language_en_US>
+
+</GameData>

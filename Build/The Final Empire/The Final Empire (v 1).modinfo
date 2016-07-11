@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="619143fa-9441-4bda-9871-e1feed52445a" version="1">
+  <Properties>
+    <Name>The Final Empire</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>The Final Empire from Brandon Sanderson's Mistborn.</Teaser>
+    <Description>The Final Empire from Brandon Sanderson's Mistborn.</Description>
+    <Authors>sonk20</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="8B786163D5A5DD50537D500AEB7C1585" import="1">Art/CivSymbolsColorLegends128.dds</File>
+    <File md5="2DA607E7119D82E7524B5F9703D285DB" import="1">Art/CivSymbolsColorLegends256.dds</File>
+    <File md5="C4FCCBF63C48A4E1560A01AB05497DD0" import="1">Art/CivSymbolsColorLegends32.dds</File>
+    <File md5="142FD40BA43B4742F0D79ED7C22D2EE5" import="1">Art/CivSymbolsColorLegends45.dds</File>
+    <File md5="AF1480AF1FD7FE0414C162913B48C92A" import="1">Art/CivSymbolsColorLegends64.dds</File>
+    <File md5="3B9FCBA9AE2A7D84B1EC292C5D84712B" import="1">Art/CivSymbolsColorLegends80.dds</File>
+    <File md5="9A9CB45BE00FB55C28E51891342C623D" import="1">Art/RashekDOM.dds</File>
+    <File md5="B1464A6CEC669271ACCEAF2223586674" import="1">Lua/Functions.lua</File>
+    <File md5="8E056BD45D9B825745CD5DCAB876DEA0" import="0">XML/Civilizations/Civ_FE.xml</File>
+    <File md5="0B1758BB4C1BF1E6BEAD9A54C0672818" import="0">XML/Civilizations/CIV5Traits.xml</File>
+    <File md5="5F559110C94DA5BAA57CBA6E6B8B4AFC" import="0">XML/GameInfo/CIV5IconTextureAtlases.xml</File>
+    <File md5="062D06A26B288410915CCF2FA4720D5D" import="0">XML/Leaders/Rashek.xml</File>
+    <File md5="8CF810B1A3376C42732561A925E408D6" import="0">XML/New Text/GameText.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Civilizations/Civ_FE.xml</UpdateDatabase>
+      <UpdateDatabase>XML/New Text/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/CIV5IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/Rashek.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>
